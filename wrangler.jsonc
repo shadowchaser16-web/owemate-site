@@ -2,7 +2,8 @@
   "name": "owemate-site",
   "compatibility_date": "2026-09-17",
   "assets": {
-    "directory": ".",
-    "html_handling": "auto-trailing-slash"
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
   }
 }
